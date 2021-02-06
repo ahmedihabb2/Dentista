@@ -10,3 +10,5 @@ Dentista Application is designed for clincal equipment for dentists for the firs
 - Make comments , likes and review for a certain product
 - If you signed in as store you can upload your products or delete them
 - You can see your profit (Store / delivery)
+
+-Demo Screenshots will be available soon as the application still under development <3
